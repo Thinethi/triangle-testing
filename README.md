@@ -24,5 +24,15 @@ handling for invalid inputs.
 - Python 3
 - Pytest
 
-## Project Structure
+## Test Coverage
+
+The test suite includes:
+
+- Equilateral triangle tests
+- Isosceles triangle tests
+- Scalene triangle tests
+- Zero and negative side validation
+- Triangle inequality violations
+- Floating-point values
+- Boundary and large number cases
 
